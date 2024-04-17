@@ -13,8 +13,9 @@ body {
     background-color: #fff;
     width: 30%;
     padding: 20px;
-    border-radius: 8px;
+    border-radius: 30px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    border-top: 50px solid #FFDC40;
   }
   
   .container > h1{
